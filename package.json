@@ -1,6 +1,6 @@
 {
   "name": "console-chalk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple chalk wrapper for colourful console messages",
   "main": "lib/console-chalk.js",
   "repository": {
