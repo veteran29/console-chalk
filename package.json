@@ -1,0 +1,19 @@
+{
+  "name": "console-chalk",
+  "version": "0.0.1",
+  "description": "Simple chalk wrapper for colourful console messages",
+  "main": "lib/console-chalk.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veteran29/console-chalk.git"
+  },
+  "author": "Filip Maciejewski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/veteran29/console-chalk/issues"
+  },
+  "homepage": "https://github.com/veteran29/console-chalk#readme",
+  "dependencies": {
+    "chalk": "^2.3.0"
+  }
+}
